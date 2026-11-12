@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0204-count-primes/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,4 +34,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0204-count-primes/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 <!---LeetCode Topics End-->
