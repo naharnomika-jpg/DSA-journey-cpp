@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0009-palindrome-number/) | Easy |
 | [0204-count-primes](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0204-count-primes/) | Medium |
 | [0507-perfect-number](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0507-perfect-number/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
