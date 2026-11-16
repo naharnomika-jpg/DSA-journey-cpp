@@ -61,9 +61,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0014-longest-common-prefix/) | Easy |
+| [0205-isomorphic-strings](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0205-isomorphic-strings/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0014-longest-common-prefix/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0205-isomorphic-strings/) | Easy |
 <!---LeetCode Topics End-->
