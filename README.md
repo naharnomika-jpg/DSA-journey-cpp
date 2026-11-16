@@ -13,6 +13,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0014-longest-common-prefix/) | Easy |
 | [0204-count-primes](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0204-count-primes/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Enumeration
@@ -59,5 +60,10 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0014-longest-common-prefix/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
