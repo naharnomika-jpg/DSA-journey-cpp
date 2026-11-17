@@ -53,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@
 | [0014-longest-common-prefix](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0014-longest-common-prefix/) | Easy |
 | [0205-isomorphic-strings](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Trie
@@ -75,8 +77,21 @@
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0796-rotate-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
