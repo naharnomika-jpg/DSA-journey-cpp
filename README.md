@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0009-palindrome-number/) | Easy |
 | [0204-count-primes](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0204-count-primes/) | Medium |
 | [0507-perfect-number](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -94,4 +95,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/naharnomika-jpg/DSA-journey-cpp/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
